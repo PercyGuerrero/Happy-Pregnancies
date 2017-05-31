@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="estilo%20pre%20embarazo.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div id="logo">
+        <h1>Pre-Embarazo </h1>
+        <br />
+        <img src="http://www.natalben.com/image-seo/21359/2832651/6f8a8268-0311-456c-b21c-4787e794632d/blog-embarazo-detalle.png" />
+    </div>
+      
+    <section id="estadisticas">
+        <div id="conecciones">
+            <br />
+            <br />
+            <br />
+            <h1>¿que incluye el paquete?</h1>
+            <p>
+                prepara tu embarazo
+                contribuyendo al desarrollo óptimo de tu hijo
+            </p>
+            <ul>
+                <li>Consejos y lecturas recomendadas antes de concebir</li>
+                <li>Vitaminas, minerales y alimentacion preembarazo</li>
+                <li>Chequeo ginecologico</li>
+                <li>Psicologia de pareja </li>
+
+            </ul>
+            
+        </div>
+        <div id="archivos">
+            <img src="http://content.escuelaninja.com/images/pm/dropbox2/lugar.png">
+            <h1>Tus documentos, estés donde estés</h1>
+            <p>
+                Guarda archivos en la computadora y, a continuación, accede a ellos en el teléfono mientras viajas.
+                Todo lo que almacenes en Dropbox se sincroniza automáticamente en todos los dispositivos.
+            </p>
+        </div>
+    </section>
+
+</body>
+</html>
+
+
+
+++++++++++++++++ css++++++++++++++++++++++++++
+body {
+    background-image: url(http://i65.tinypic.com/33fe0yx.jpg);
+}
+
+#logo{
+    margin:auto;
+    text-align:center;
+}
+
+
+#founders {
+    text-align:center;
+    background-color:#FBFBFB;
+    border-top: 1px solid #D0D4D9;
+    border-bottom:1px solid #e8e8e8;
+    padding: 30px 0 30px 0;
+   
+}
+#founders p{
+    font-size:32px;
+    width:500px;
+    text-align: center;
+   
+}
+#creamos{
+    padding:50px;
+}
+#creamos h1{
+    text-align:center;
+    font-size: 38px;
+   
+}
+#creamos p{
+    font-size: 24px;
+    width:500px;
+     text-align: center;
+}
+
+#estadistica{
+    background-image : url("http://content.escuelaninja.com/images/pm/dropbox2/forma.png");
+    height: 820px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:30px;
+    margin:auto;
+    
+}
+#conecciones{
+    width:40%;
+    text-align:left;
+    margin-left:50px;
+    float:left;
+   
+}
+#archivos{
+    float:right;
+    margin-right:50px;
+    width:40%;
+    text-align:right;   
+}
+}
+
+
+
+
