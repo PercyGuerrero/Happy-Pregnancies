@@ -1,0 +1,22 @@
+body * {
+}
+
+#contenedor{
+    width:500px;
+    margin:auto;
+}
+#izq{
+    width:100px;
+    float:left
+}
+
+#der{
+    width:100px;
+    margin-left:400px;
+}
+
+#cen{
+    margin-left:100px;
+    margin-right:100px;
+   
+}
