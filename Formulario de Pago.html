@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
-    <link href="StyleSheet.css" rel="stylesheet" />
+    <link href="estilo.css" rel="stylesheet" />
 </head>
 <body>
     <header></header>
@@ -12,20 +12,21 @@
         <section id="der"></section>
         <section id="cen">
             <h1></h1>
-            <span>Tipo de Tarjeta</span><br />
+            <span><strong>Tipo de Tarjeta</strong></span><br />
             <select id="Select1">
                 <option>Visa</option>
                 <option>MasterCard</option>
                 <option>Pago Efectivo</option>
+                <option>BBVA Continental</option>
             </select><br /><br />
 
-            <span>Numero de Tarjeta</span><br />
+            <span><strong>Numero de Tarjeta</strong></span><br />
             <input id="numTarjeta" type="text" /><br /><br />
 
-            <span>Nombre</span><br />
+            <span><strong>Nombres y Apellidos</strong></span><br />
             <input id="nombre" type="text" /><br /><br />
 
-            <span>Fecha de caducidad y código de seguridad</span><br />
+            <span><strong>Caducidad y código de seguridad</strong></span><br />
              <select id="mes">
                 <option>--</option>
                 <option>1</option>
@@ -40,27 +41,9 @@
                 <option>10</option>
                 <option>11</option>
                 <option>12</option>
-                <option>13</option>
-                <option>14</option>
-                <option>15</option>
-                <option>16</option>
-                <option>17</option>
-                <option>18</option>
-                <option>19</option>
-                <option>20</option>
-                <option>21</option>
-                <option>22</option>
-                <option>23</option>
-                <option>24</option>
-                <option>25</option>
-                <option>26</option>
-                <option>27</option>
-                <option>28</option>
-                <option>29</option>
-                <option>30</option>
-                <option>31</option>
+
             </select> 
-             <select id="año">
+             <select style="width:55px;" id="año">
                 <option>--</option>
                 <option>2017</option>
                 <option>2018</option>
@@ -69,7 +52,8 @@
                 <option>2021</option>
                 <option>2022</option>
             </select>
-            <input id="numTarjeta" type="text" /><br /><br />
+            <input style="width:100px;" id="numTarjeta" type="text" /><a href=""  onClick="window.open('http://store.steampowered.com//checkout/cvv2explain/?webbasedpurchasing=1e','popup','scrollbars=yes,status=yes,width=250, height=190');" ><strong>¿?</strong></a><br /><br />
+            
             
             <button>Enviar Pago</button>
 
