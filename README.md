@@ -1,6 +1,9 @@
-# Happy-Pregnancies 
 
-*** Es un proyecto diseñado por los alumnos del curso de Taller de software 4; cuyo trabajo es implementado con los conocimientos aprendidos en clase. Este trabajo  se basa en el "user experience" , brindando un servicio al segmento de mujeres cuyos paquetes son: pre-embarazo, embarazo  y post-embarazo llevando esta etapa sin preocupaciones.
+### Happy-Pregnancies   {#cabecera1}
+
+[⁠⁠⁠⁠⁠http://happypregnancies.somee.com/Default.aspx](#cabecera1)
+
+Es un proyecto diseñado por los alumnos del curso de Taller de software 4; cuyo trabajo es implementado con los conocimientos aprendidos en clase. Este trabajo  se basa en el "user experience" , brindando un servicio al segmento de mujeres cuyos paquetes son: pre-embarazo, embarazo  y post-embarazo llevando esta etapa sin preocupaciones.
 
 ## Integrantes
 
@@ -17,5 +20,5 @@
  
 
 
- [Ver enlace de la pagina **"HAPPY PREGNACIES"**:] (URL "Título del enlace")
+
 
