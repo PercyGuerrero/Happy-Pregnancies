@@ -1,5 +1,0 @@
-c:\users\alumno\documents\visual studio 2013\Projects\Happy Pregnacies\Happy Pregnacies\bin\Happy Pregnacies.dll.config
-c:\users\alumno\documents\visual studio 2013\Projects\Happy Pregnacies\Happy Pregnacies\bin\Happy Pregnacies.dll
-c:\users\alumno\documents\visual studio 2013\Projects\Happy Pregnacies\Happy Pregnacies\bin\Happy Pregnacies.pdb
-c:\users\alumno\documents\visual studio 2013\Projects\Happy Pregnacies\Happy Pregnacies\obj\Debug\Happy Pregnacies.dll
-c:\users\alumno\documents\visual studio 2013\Projects\Happy Pregnacies\Happy Pregnacies\obj\Debug\Happy Pregnacies.pdb
