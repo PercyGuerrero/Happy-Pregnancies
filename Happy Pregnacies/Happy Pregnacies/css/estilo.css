@@ -1,0 +1,76 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+
+}
+
+body {
+    background-color:#FBEFF8;
+    font-family: Arial;
+    background-image: url(http://i65.tinypic.com/33fe0yx.jpg);
+  
+}
+header{
+    background-color:#2E2E2E;
+    color: white;
+}
+
+.banner {
+    display:inline-block;
+    width: 33%;
+    text-align:center;
+    height:65px;
+    padding-top:35px;
+
+}
+
+footer {
+    clear: both;
+}
+
+
+section > div {
+    display: inline-block;
+    width: 33%;
+}
+
+.subTitulo {
+    text-align: center;
+    font: 100% sans-serif;
+    font-size:30px;
+    color:#585858;
+    padding-bottom:30px;
+}
+
+.circulo {
+    border: 1px solid #F6CED8;
+    margin: auto;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+section > div > section {
+    text-align: center;
+    margin: auto;
+    background-color: #01DFD7;
+    margin-top:25px;
+    padding-bottom:25px;
+}
+#pre{
+
+    background-image: url(http://www.granvalparaiso.cl/wp-content/uploads/2016/07/etapa-preconcepcional.jpg);
+    
+}
+footer{
+    background-color: #151515;
+    height:50px;
+    color: white;
+}
+
+.masInfo{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+
+}

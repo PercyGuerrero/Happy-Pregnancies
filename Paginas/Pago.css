@@ -1,0 +1,32 @@
+body  {
+    background-color:#E1BEEA;
+   min-height: 10000px;
+}
+
+#contenedor{
+    width:500px;
+    margin:auto;
+    background-image: url('http://static.vix.com/es/sites/default/files/styles/large/public/btg/tech.batanga.com/files/Fondos-para-paginas-web-02.jpg?itok=pmZNKG1Y');
+    padding:20px;
+    border-radius: 10px;
+}
+#izq{
+    width:100px;
+    float:left
+}
+
+#der{
+    width:100px;
+    margin-left:400px;
+}
+
+#cen{
+    margin-left:100px;
+    margin-right:100px;
+    border:6px solid white;
+    border-radius: 10px;
+    padding:20px;
+    
+    
+   
+}
