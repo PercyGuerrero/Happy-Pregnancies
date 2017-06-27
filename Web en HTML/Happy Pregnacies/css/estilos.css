@@ -124,11 +124,7 @@ header #menu ul a:hover{
 	height: 550px;
 }
 
-#boton-preembarazo{
-	width:200px;
-	height: 50px;
-	margin-bottom: 10px;
-}
+
 #izquierda > ul{
 	font-size: 15px;
 	font-weight: normal; 
@@ -173,6 +169,8 @@ header #menu ul a:hover{
 	font-family: Verdana;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
+	margin-bottom:10px;
+	
 }
 
 
@@ -185,3 +183,62 @@ header #menu ul a:hover{
   background: #862a1c;
   box-shadow: 0 0 0 0px rgba(0, 0, 0, 0);
 }
+
+
+/*=============Estilo botones contratar=============*/
+
+.boton-preembarazo{
+	
+	overflow:hidden; 
+	font-size: 18px;
+    position: relative;
+    box-sizing: border-box;
+	transition: all 500ms ease;
+	
+	
+	box-shadow: rgb(138, 42, 33) 3px 4px 0px 0px;
+    background: linear-gradient(rgb(198, 45, 31) 5%, rgb(242, 68, 55) 100%) rgb(198, 45, 31);
+    border-radius: 5px;
+    border: 1px solid rgb(208, 39, 24);
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    padding: 10px 35px;
+    text-decoration: none;
+
+}
+
+.boton-preembarazo:before{
+	font-family: Font-Awesome;
+	content:"\f07a";
+	position: absolute;
+	color:#ffffff;
+	
+	top: 11px;
+	left: -30px;
+	transition: all 200ms ease;
+	
+}
+
+.boton-preembarazo:hover:before {
+	left: 7px;
+	
+	
+}
+
+.boton-preembarazo:hover{
+	opacity:0.9;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
