@@ -82,28 +82,8 @@ header #menu ul a:hover{
 #inicio h1{
 	padding-bottom: 35px;
 }
-#inicio a{
-	text-decoration: none;
-	color: #e41b23;
-	padding:15px;
-	border: 4px solid #e41b23;
-	font-size: 17px;
-	font-family: Verdana;
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	-o-border-radius: 5px;
-	font-weight: bold;
-	transition: background 0.7s, color 0.7s;
-	-webkit-transition: background 0.7s, color 0.7s;
-	-moz-transition: background 0.7s, color 0.7s;
-	-o-border-radius: 5px;
-}
-#inicio a:hover{
-	background: #e41b23;
-	color:#92191e;
 
-}
+
 
 #titulo{
 	text-align: center;
@@ -170,4 +150,38 @@ header #menu ul a:hover{
 }
 #contenido > p{
 	text-align: center;
+}
+
+
+/*==============button===========*/
+
+.btn {
+	text-decoration: none;
+	position: relative;
+	display: inline-block;
+	line-height: 22px;
+	text-align: center;
+	color: #ffffff;
+	background: #d44934;
+	border: none;
+	box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.41);
+	font-weight: bold;
+	-webkit-transition: background 0.7s, color 0.7s;
+	-moz-transition: background 0.7s, color 0.7s;
+	padding:15px;
+	font-size: 17px;
+	font-family: Verdana;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+
+.btn:hover {
+	box-shadow: 0 0 0 0px rgba(0, 0, 0, 0);
+	background:#E73B20;
+	color:#9F292D;
+}
+.btn:active {
+  background: #862a1c;
+  box-shadow: 0 0 0 0px rgba(0, 0, 0, 0);
 }
