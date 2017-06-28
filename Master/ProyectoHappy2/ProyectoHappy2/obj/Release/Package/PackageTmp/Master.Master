@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="ProyectoHappy2.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>Happy Pregnancies</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="Libreria/jquery-3.2.1.js"></script>
+    <script src="Scripts/Master.js"></script>
+    <link href="Iconos/style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <nav>
+                <div id="boton"> <a href="#" class="bt-menu"><span class="icon-paragraph-justify"></span>Menu</a></div>
+                <ul class="menu">
+                  
+                    <li><a href="Default.aspx">Home</a></li>
+                    <li><a href="AcercaDe.aspx">Acerca de</a></li>
+                    <li><a href="#">Contacto</a></li>
+                    <li><a href="Registo.aspx">Registrarse</a></li>
+
+                </ul>
+            </nav>
+            <section id="contenido">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+                
+            </section>
+            <footer>
+                Happy Preganacies © 2017 Privacy Policy
+            </footer>
+
+        </div>
+    </form>
+</body>
+</html>
