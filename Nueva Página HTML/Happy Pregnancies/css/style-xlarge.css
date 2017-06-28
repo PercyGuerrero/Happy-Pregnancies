@@ -1,0 +1,7 @@
+body, input, select, textarea {
+	font-size: 12pt;
+}
+
+#banner {
+	padding: 12em 0;
+}

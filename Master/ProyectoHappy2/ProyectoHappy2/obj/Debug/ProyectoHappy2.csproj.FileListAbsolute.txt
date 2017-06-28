@@ -32,3 +32,37 @@ c:\users\ganster\documents\visual studio 2017\Projects\ProyectoHappy2\ProyectoHa
 c:\users\ganster\documents\visual studio 2017\Projects\ProyectoHappy2\ProyectoHappy2\obj\Debug\ProyectoHappy2.csprojResolveAssemblyReference.cache
 c:\users\ganster\documents\visual studio 2017\Projects\ProyectoHappy2\ProyectoHappy2\obj\Debug\ProyectoHappy2.dll
 c:\users\ganster\documents\visual studio 2017\Projects\ProyectoHappy2\ProyectoHappy2\obj\Debug\ProyectoHappy2.pdb
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\csc.exe
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\csc.exe.config
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\csc.rsp
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\csi.exe
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\csi.rsp
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\System.AppContext.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\vbc.exe
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\vbc.exe.config
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\vbc.rsp
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\ProyectoHappy2.dll.config
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\ProyectoHappy2.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\ProyectoHappy2.pdb
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\obj\Debug\ProyectoHappy2.csprojResolveAssemblyReference.cache
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\obj\Debug\ProyectoHappy2.dll
+C:\Users\CRISTHIAN\Documents\GitHub\Happy-Pregnancies\Master\ProyectoHappy2\ProyectoHappy2\obj\Debug\ProyectoHappy2.pdb
