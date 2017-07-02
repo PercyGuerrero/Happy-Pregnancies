@@ -1,3 +1,6 @@
+@import 'vars';
+@import 'mixins';
+
 /*
 	Drift by Pixelarity
 	pixelarity.com @pixelarity
@@ -9,7 +12,7 @@
 	body, input, select, textarea {
 		font-size: 12pt;
 	}
-
+	
 /* Banner */
 
 	#banner {

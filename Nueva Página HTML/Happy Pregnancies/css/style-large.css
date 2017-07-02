@@ -7,11 +7,18 @@
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 12pt;
+		font-size: 11pt;
+	}
+
+/* Header */
+
+	.dropotron.level-0 {
+		font-size: 1em;
 	}
 
 /* Banner */
 
 	#banner {
-		padding: 12em 0;
+		background-attachment: scroll;
+		padding: 10em 0;
 	}

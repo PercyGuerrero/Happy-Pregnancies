@@ -1,6 +1,14 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Lato:300,700");
 
+/*
+	Drift by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/* Basic */
+
 	body {
 		background: #fff;
 	}
@@ -1221,13 +1229,13 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,fixed;
+		background-attachment: scroll,						fixed;
 		background-color: #494d53;
-		background-image: url("images/banner.jpg"), url("../images/banner.jpg");
-		background-position: top left,center center;
-		background-repeat: no-repeat;
-		background-size: cover;
-		color: black;
+		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-position: top left,					center center;
+		background-repeat: repeat,						no-repeat;
+		background-size: auto,						cover;
+		color: #d1d2d4;
 		padding: 16em 0;
 		position: relative;
 		text-align: center;
@@ -1325,7 +1333,7 @@
 			margin-bottom: 0;
 		}
 
-/* Banner Registrate */
+/* CTA */
 
 	#cta {
 		padding: 4em 0;
