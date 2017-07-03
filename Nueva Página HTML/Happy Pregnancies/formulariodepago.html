@@ -6,7 +6,6 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.dropotron.min.js"></script>
 		<script src="js/jquery.scrollgress.min.js"></script>
@@ -20,8 +19,6 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 		</noscript>
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
 
@@ -31,59 +28,72 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="index.html">Inicio</a></li>
-						<li><a href="#">Registro</a></li>
-						<li><a href="#">Iniciar Sesión</a></li>
+						<li><a href="registro.html">Registro</a></li>
+						<li><a href="iniciarsesion.html">Iniciar Sesión</a></li>
 					</ul>
 				</nav>
 			</header>
 
 		<!-- Main -->
 			<section id="main" class="wrapper style1">
-				<header class="major">
-					<h2>Iniciar Sesion</h2>
-					
-				</header>
-				<div class="container">
-						        <section>	
-									<form method="post" action="#">
+			
+				<div class="container" style="width:50%">
+													<section>
+									<h3>Datos</h3>
+									<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+
 										<div class="row uniform">
-											<div class="6u 12u(3)">
-												<input type="text" name="name" id="name" value="" placeholder="Nombres" />
+											<div class="12u 12u(3)">
+												<input type="text" name="name" value="" required placeholder="Nombre de Propietario" />
 											</div>
-											<div class="6u 12u(3)">
-												<input type="text" name="name" id="name" value="" placeholder="Primer Apellido" />
+											<div class="12u 12u(3)">
+												<input type="text" name="name"  value="" required placeholder="Apellido de Propietario" />
 											</div>
+											<div class="12u 12u(3)">
+												<input type="text" name="name"  value="" required placeholder="Número de Tarjeta" />
+											</div>
+											
+
 											<div class="6u 12u(3)">
-												<input type="text" name="name" id="name" value="" placeholder="Segundo Apellido" />
+
+												<input type="date" name="numero"  value="" required placeholder="Fecha de vencimiento()" />
 											</div>
 
 											<div class="6u 12u(3)">
-												<input type="email" name="email" id="email" value="" placeholder="correo" />
+												<input type="text" name="numero"  value="" required placeholder="Codigo de seguridad(CVV)" />
 											</div>
-											<div class="6u 12u(3)">
-												<input type="password" name="email" id="email" value="" placeholder="Contraseña" />
+
+											<div class="12u 12u(3)">
+											<input type="hidden" name="cmd" value="_s-xclick">
+											<input type="hidden" name="hosted_button_id" value="G74Q8CLG2WGCE">
+											
+											<tr><td><input type="hidden" name="on0" value=""></td></tr><tr><td>
+											<select name="os0">
+												<option value="Pre-Enbarazo">Pre-embarazo : S/39.99 - mensual</option>
+												<option value="Embarazo">Embarazo : S/49.99 - mensual - mensual</option>
+												<option value="Post-embarazo">Post-embarazo : S/49.99 - mensual</option>
+											</select> </td></tr>
+											<br/>
+											<input type="hidden" name="currency_code" value="USD">
+											<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+											<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
 											</div>
-											<div class="6u 12u(3)">
-												<input type="password" name="email" id="email" value="" placeholder="Confirmar contraseña" />
-											</div>
+											
+
 
 										</div>
-									
 										
 										<div class="row uniform">
 											<div class="12u">
 												<ul class="actions">
-													<li><input type="submit" class="button special fit small" value="Registrarse" /></li>
-													<li><input type="reset" class="button special fit small" value="Cancelar registro" class="alt" /></li>
-
+                                  <li><a href="perfil.html" class="button">Enviar Pago</a></li>
+                                  <li><a href="index.html" class="button">Cancelar</a></li>
 
 												</ul>
 											</div>
 										</div>
 									</form>
 								</section>	
-				
-						
 								
 				</div>
 			</section>
