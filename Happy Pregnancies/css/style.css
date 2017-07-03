@@ -515,6 +515,18 @@
 				width: 100%;
 			}
 
+		.image.fot {
+
+			width: 50%;
+
+		}
+
+			.image.fot img {
+
+
+
+			}
+
 /* List */
 
 	ol {
@@ -1371,3 +1383,54 @@
 		#footer .copyright {
 			font-size: 0.8em;
 		}
+
+/*Pagina de Planes */
+#izquierdaperfil {
+    float: left;
+    width: 70%;
+}
+
+#derechaperfil {
+    margin-left: 70%;
+}
+
+.menuespecial {
+    border: 1px solid #c5c5c5;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin: 1px 5px 6px 6px;
+    height: 920px;
+
+}
+
+    .menuespecial h4 {
+        background-color: #e0555a;
+        color: #fff;
+        padding: 8px;
+        border-radius: 3px;
+    }
+
+    .menuespecial ul {
+        padding-left: 20px;
+        margin: 0;
+    }
+
+    .menuespecial li {
+        list-style-type: none;
+        padding: 5px;
+    }
+
+        .menuespecial li > a {
+            text-decoration: none;
+        }
+
+ /*Pagina de Planes */
+ #izquierdaperfil2 {
+    float: left;
+    width: 25%;
+}
+
+#derechaperfil2 {
+    margin-left: 25%;
+}
